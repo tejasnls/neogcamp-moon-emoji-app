@@ -1,0 +1,6 @@
+.header {
+    text-align: center;
+    border-bottom: 4px solid var(--primary-color);
+    font-size: 1.6rem;
+    font-weight: bolder;
+}
